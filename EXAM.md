@@ -2,6 +2,8 @@
 
 * Select an __IMG__ element
 ```  
+img{
+}
 ``` 
 * Select all __H2__ elements
 ```
