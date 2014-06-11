@@ -50,8 +50,9 @@ img[src$=".gif"]{
 }
 * Select all elements that are __NOT__ inside the three columns
 ```
-#pub_ist_layer{
+:not(content){
 }
+
 ```
 
 
