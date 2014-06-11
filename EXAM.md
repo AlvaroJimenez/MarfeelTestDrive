@@ -78,8 +78,13 @@ Optimize the source code
 
 ### 6. What are data URIs? When would you use them?
 
+For indentify a web page with a secuence of charactes. I use them for to visit the web page.
+
 ### 7. Using jQuery...
 
 * Add a 10px red border around all __IMG__ elements 
+```
+$("img").imgr({size:"10px",color:"red"}); 
+```
 * Fade out all __IMG__ elements
 * Add a 10px red border around all __IMG__ and fade out the images after 3 seconds
