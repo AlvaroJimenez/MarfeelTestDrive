@@ -56,9 +56,16 @@ img[src$=".gif"]{
 
 
 ### 2. Pick any __IMG__ and __A__ element and replace them for any other element of your choice
+```
+a.foto{
+  
+  background: url(http://...) ;
 
+}
+```
 
 ### 3. What is CSS minification?
+###  is the process of removing all unnecessary characters from source code without changing its functionality
 
 ### 4. What is CSS compression?
 
