@@ -65,7 +65,7 @@ a.foto{
 ```
 
 ### 3. What is CSS minification?
-###  is the process of removing all unnecessary characters from source code without changing its functionality
+  Is the process of removing all unnecessary characters from source code without changing its functionality
 
 ### 4. What is CSS compression?
 
