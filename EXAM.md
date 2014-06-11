@@ -13,7 +13,7 @@ h2
 ```
 * Select all __A__ elements that have the attribute _title_
 ```
-A[title] {
+A[target=title] {
 
 }
 
