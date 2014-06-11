@@ -75,7 +75,7 @@ Optimize the source code
 * static: Los elementos se van colocando uno a continuación del otro
 * absolute: Los elementos se colocan sin influencia de los otros. Son colocados mediantes coordenadas.
 * relative: Son colocados con relación a su posicion natural.
-* fixed: Son colacodos relativamente a la ventana del navegador.
+* fixed: Son colocados relativamente a la ventana del navegador.
 
 ### 6. What are data URIs? When would you use them?
 
