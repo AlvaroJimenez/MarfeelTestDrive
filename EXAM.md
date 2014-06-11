@@ -84,7 +84,19 @@ For indentify a web page with a secuence of charactes. I use them for to visit t
 
 * Add a 10px red border around all __IMG__ elements 
 ```
-$("img").imgr({size:"10px",color:"red"}); 
+$('img').imgr({size:"10px",color:"red"}); 
 ```
 * Fade out all __IMG__ elements
+```
+$('img').fadeOut();
+
+```
 * Add a 10px red border around all __IMG__ and fade out the images after 3 seconds
+```
+$('img').fadeOut(duración,$.metodo());
+
+$.metodo = function(){ 
+$('img').imgr({size:"10px",color:"red"}); 
+}
+
+```
